@@ -2,7 +2,7 @@ from datetime import date
 import json
 
 
-class Stanje:
+class Model:
     def __init__(self):
         self.spiski = []
         self.aktualni_spisek = None
